@@ -1,3 +1,3 @@
 # julius
 
-puushing and pulling
+tyler is pushing and pulling
